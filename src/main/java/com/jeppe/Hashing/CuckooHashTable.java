@@ -2,6 +2,7 @@ package com.jeppe.Hashing;
 
 import java.util.Arrays;
 
+//does not work
 public class CuckooHashTable {
     private static final int DEFAULT_CAPACITY = 11;
     private static final double MAX_LOAD_FACTOR = 0.5;
